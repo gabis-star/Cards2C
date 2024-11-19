@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'TCSS',
+    'CSS',
     'Para que serve o id no CSS',
     'Estilizar um elemento único'
 )
