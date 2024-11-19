@@ -18,18 +18,18 @@ criaCartao(
 
 criaCartao(
     'HTML',
-    'Para que serve a tag "a"?',
+    'Para que serve a tag < a >?',
     'Criar links'
 )
 criaCartao(
     'HTML',
-    'O que é uma tag "div"?',
+    'O que é uma tag < div >?',
     'Um contêiner de bloco para agrupar elementos'
 )
 criaCartao(
     'HTML',
     'Como criar uma lista numerada?',
-    'Use a tag "ol" com "li"'
+    'Use a tag < ol > com < li >'
 )
 criaCartao(
     'JavaScript',
